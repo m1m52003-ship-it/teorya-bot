@@ -33,7 +33,7 @@ def load_answers():
 
 # ====== 2. قراءة الأسئلة من الملف الأصلي ======
 def load_questions(ans_map):
-    doc = Document("ttt.docx")
+    doc = Document("questions.docx")
     final_data = []
     
     # استخراج النصوص من الفقرات والجداول
