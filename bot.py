@@ -8,7 +8,7 @@ from rapidfuzz import process
 from docx import Document
 
 # ====== الإعدادات ======
-TOKEN = "8733274846:AAHKXz9K_CiX8JiTEd_0ysbofKDFIvokwZE"
+TOKEN = ""
 # تأكد من أن مسار Tesseract صحيح في جهازك
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
