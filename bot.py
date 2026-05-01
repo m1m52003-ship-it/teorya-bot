@@ -6,7 +6,7 @@ from rapidfuzz import fuzz
 from docx import Document
 
 # ====== الإعدادات ======
-TOKEN = st.secrets["TOKEN"]
+TOKEN=st.secrets["TOKEN"]
 
 def normalize_text(text):
     text = text.lower()
