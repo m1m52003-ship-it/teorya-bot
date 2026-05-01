@@ -3,3 +3,4 @@ rapidfuzz
 python-docx
 pytesseract
 Pillow
+streamlit
