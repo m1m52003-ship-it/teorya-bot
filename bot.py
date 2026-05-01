@@ -1,3 +1,4 @@
+import streamlit as st  # السطر الأهم لحل مشكلة NameError
 import re
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
