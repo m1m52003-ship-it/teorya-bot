@@ -1,6 +1,5 @@
 python-telegram-bot
-rapidfuzz
 python-docx
+rapidfuzz
 pytesseract
-Pillow
-streamlit
+pillow
