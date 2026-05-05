@@ -23,7 +23,7 @@ from data_loader import load_questions_database, group_questions_by_topic
 # =========================
 # ضع التوكن هنا
 # =========================
-TOKEN = "8733274846:AAGju-F1HjC4X-Fjb2F39x_QznzKKnZKru4"
+TOKEN = "TOKEN"
 
 # إذا كان Tesseract مثبتًا في هذا المسار
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
