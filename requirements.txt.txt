@@ -1,0 +1,5 @@
+python-telegram-bot
+python-docx
+rapidfuzz
+pytesseract
+pillow
